@@ -117,7 +117,6 @@ public class AesManagerPractice {
                             writer.write(encLine);
                         }
                     }
-
                     writer.newLine();
 
                     line++;

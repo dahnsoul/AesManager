@@ -59,7 +59,6 @@ public class AesManager {
                         plainText = aes256.encrypt(cipherText);
 
                     }
-
                     line++;
 
                     if(plainText.startsWith("H",0)){
